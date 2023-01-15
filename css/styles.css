@@ -790,7 +790,7 @@ a.current {
 }
 .portfolio-item .portfolio-desc .folio-info {
 	top: -20px;
-	padding: 30px;
+	padding: 10px;
 	height: 0;
 	opacity: 0;
 	position: relative;
@@ -799,7 +799,7 @@ a.current {
 	height: 100%;
 	opacity: 1;
 	transition: all 500ms ease-in-out 0s;
-	top: 5px;
+	top: 1px;
 }
 .portfolio-item .portfolio-desc .folio-info h5 {
 	text-transform: uppercase;
@@ -1134,7 +1134,7 @@ display: inline-block;
 	text-align: center;
 	font-weight: normal;
 	font-size: 10px;
-	margin: 10px 0 0 0;
+	margin: 1px 0 0 0;
 }
 nav#filter li {
 	display: inline-block;
